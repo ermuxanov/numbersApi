@@ -1,5 +1,29 @@
-# Vue 3 + Vite
+# 📊 Numbers App — Vue SPA
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Одностраничное приложение на Vue 3 для получения интересных фактов о числах с использованием API [numbersapi.com](http://numbersapi.com).
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🔧 Функциональность
+
+- Выбор типа данных: `Math`, `Year`, `Trivia`, `Date`
+- Ввод конкретного числа или случайного
+- Проверка на корректность ввода
+- Переход на страницу с результатом
+- Обработка ошибок
+
+## 📷 Скриншот
+
+![Скриншот интерфейса](./assets/screenshot.png)
+
+## 📹 Демо
+
+[▶️ Посмотреть видео (mp4)](./assets/demo.mp4)
+
+_Если видео не открывается, скачайте файл или откройте вручную._
+
+## 🚀 Запуск проекта
+
+```bash
+git clone https://github.com/your-username/numbers-app.git
+cd numbers-app
+npm install
+npm run dev

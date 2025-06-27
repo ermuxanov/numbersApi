@@ -12,8 +12,6 @@ dist
 dist-ssr
 *.local
 
-![Скриншот](./assets/screenshot.png)
-[Скачать демо (mp4)](./assets/demo.mp4)
 
 # Editor directories and files
 .vscode/*
